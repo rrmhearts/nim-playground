@@ -21,7 +21,6 @@ nim c hello
 ./hello
 
 ### Build and run
-```
 nim c -r hello
 ```
 
